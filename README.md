@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi my name is David
+## I am Front-End Junior Developer, like to build minimalist stuffs.
+## Languages and frameworks that i use:
+
 
 <!--
 **Molizanee/Molizanee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
