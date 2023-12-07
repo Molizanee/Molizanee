@@ -1,6 +1,10 @@
-### Hi my name is David
-## I am Front-End Junior Developer, like to build minimalist stuffs.
-## Languages and frameworks that i use:
+## I am Front-End Junior Developer, like to build minimalist web apps.
+### Languages and frameworks that i use:
+- NextJS
+- React
+- Tailwind CSS
+- Figma
+- FastAPI
 
 
 <!--
