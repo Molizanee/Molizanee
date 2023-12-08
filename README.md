@@ -1,11 +1,14 @@
-## I am Front-End Junior Developer, like to build minimalist web apps.
+# David Molizane | Brazilian dev
+## I am Front-End Junior Developer, I love build minimalist web apps.
 ### Languages and frameworks that i use:
+- JavaScript
 - NextJS
 - React
 - Tailwind CSS
 - Figma
+- Python
 - FastAPI
-
+- Docker
 
 <!--
 **Molizanee/Molizanee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
