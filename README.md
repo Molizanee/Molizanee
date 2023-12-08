@@ -7,6 +7,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" alt="Alt text" title="React" height="70">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Alt text" title="React" height="70">
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Alt text" title="React" height="70">
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="Alt text" title="React" height="70">
 
 </div>
 - Tailwind CSS
