@@ -1,6 +1,6 @@
 # David Molizane | 🇧🇷 dev
 ## I am Junior Front-End Developer, I love build minimalist web apps!
-### Languages and frameworks that i use:
+### Languages, frameworks and tools that i use:
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" alt="JavaScript Logo" title="JavaScript" height="50">
