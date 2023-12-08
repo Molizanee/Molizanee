@@ -1,5 +1,5 @@
 # David Molizane | 🇧🇷 dev
-## I am Front-End Junior Developer, I love build minimalist web apps.
+## I am Junior Front-End Developer, I love build minimalist web apps!
 ### Languages and frameworks that i use:
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 20px;">
