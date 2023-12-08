@@ -1,7 +1,7 @@
 # David Molizane | Brazilian dev
 ## I am Front-End Junior Developer, I love build minimalist web apps.
 ### Languages and frameworks that i use:
-- JavaScript
+- [alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png?20141107110902)) JavaScript
 - NextJS
 - React
 - Tailwind CSS
