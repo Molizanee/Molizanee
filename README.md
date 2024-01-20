@@ -5,20 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet" />
-    <style>
-      body {
-        font-family: "Poppins", sans-serif;
-        text-align: center;
-      }
-      h1, h2 {
-        margin: 0;
-      }
-      .skills {
-        display: flex;
-        justify-content: center;
-        gap: 20px;
-      }
-    </style>
   </head>
   <body>
     <h1 style="color: rgb(46, 46, 255)">David Molizane</h1>
