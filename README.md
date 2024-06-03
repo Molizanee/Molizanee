@@ -8,7 +8,7 @@
   </head>
   <body>
     <h1 style="color: rgb(46, 46, 255)">David Molizane</h1>
-    <h2 style="font-weight: 500; color: rgb(120, 120, 120)">Front-End Developer at Brazil</h2>
+    <h2 style="font-weight: 500; color: rgb(120, 120, 120)">Front-End Developer based at São Paulo Brazil</h2>
     <div style="margin-top: 20px">
       <h2 style="font-weight: 500; color: rgb(120, 120, 120)">My Skills</h2>
       <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
