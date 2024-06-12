@@ -1,24 +1,64 @@
+<h1 align="center">David Molizane</h1>
 
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-    
-  </head>
-  <body>
-    <h1 style="color: rgb(46, 46, 255)">David Molizane</h1>
-    <h2 style="font-weight: 500; color: rgb(120, 120, 120)">Front-End Developer based at São Paulo Brazil</h2>
-    <div style="margin-top: 20px">
-      <h2 style="font-weight: 500; color: rgb(120, 120, 120)">My Skills</h2>
-      <div style="display: flex; gap: 20px; justify-content: center; margin-top: 20px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="50" height="50" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="60" height="50" />
-        <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="50" height="50" />
-        <img src="https://zeroheight-wordpress-uploads.s3.amazonaws.com/wp-content/uploads/2022/11/small-icon_figma.png" width="50" height="50" />
-        <img src="https://www.docker.com/wp-content/uploads/2023/05/symbol_blue-docker-logo.png" width="65" height="50" />
-      </div>
-    </div>
-  </body>
-</html>
+###
+
+<div align="center">
+  <img height="220" src="https://avatars.githubusercontent.com/u/69636519?v=4"  />
+</div>
+
+###
+
+<h3 align="center">Front-End Developer Based in Brazil</h3>
+
+###
+
+<h3 align="left">My Social Medias</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/david-molizane-11a8751b3/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="dmolizane@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.instagram.com/molizanee/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">I Work With</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Molizanee/Molizanee/output/snake.svg" alt="Snake animation" />
+
+###
