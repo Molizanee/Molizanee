@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="220" src="https://avatars.githubusercontent.com/u/69636519?v=4"  />
-</div>
-
-###
-
 <h1 align="center">David Molizane</h1>
 
 ###
