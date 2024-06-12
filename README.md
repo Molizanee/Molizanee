@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">Front-End Developer Based in Brazil</h3>
+<h3 align="center">Front-End Developer Based in Brazil🇧🇷</h3>
 
 ###
 
