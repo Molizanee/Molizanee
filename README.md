@@ -36,9 +36,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=solidjs" height="40" alt="solid logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=storybook" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
