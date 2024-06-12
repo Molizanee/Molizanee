@@ -55,12 +55,8 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
+  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -76,8 +72,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Molizanee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="164" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Molizanee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2" height="164" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Molizanee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Molizanee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Molizanee&radius=9&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
