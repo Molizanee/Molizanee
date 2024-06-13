@@ -1,4 +1,4 @@
-<img src="https://skillicons.dev/icons?i=ts](https://pixel-profile.vercel.app/api/github-stats?username=Molizanee" alt="Molizane Stats"  />
+<img src="https://skillicons.dev/icons?i=ts](https://pixel-profile.vercel.app/api/github-stats?username=Molizanee" height="250" alt="Molizane Stats"  />
 ###
 
 <h3 align="left">I Work With</h3>
