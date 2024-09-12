@@ -5,7 +5,7 @@
 - Currently working on my first open-source project, Quick Link.
 ## You can reach me at:
 - Email: dmolizane@gmail.com
-- LinkedIn: David Molizane
+- LinkedIn: [David Molizane](https://www.linkedin.com/in/david-molizane-11a8751b3/)
 ## Technologies & Tools:
 - Front-end: React.js, Solid.js, Next.js, Storybook, Vitest, Playwright
 - Back-end: Node.js, Express.js, MongoDB, Firebase, PostgreSQL, Jest, Docker
