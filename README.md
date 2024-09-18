@@ -2,7 +2,7 @@
 ## Full-Stack Developer based in Brazil
 ## About Me:
 - I am focused on improving my back-end skills, particularly with **Node.js** and **Express.js**.
-- Currently working on my first open-source project, **Quick Link**.
+- Currently working on Astr4dev and Bravion projects.
 ## You can reach me at:
 - Email: dmolizane@gmail.com
 - LinkedIn: [David Molizane](https://www.linkedin.com/in/david-molizane-11a8751b3/)
