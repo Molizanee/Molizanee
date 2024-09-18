@@ -1,5 +1,5 @@
 # Hi, I’m David Molizane 🤟
-## Full-Stack Developer based in Brazil
+## Software Developer based in Brazil
 ## About Me:
 - I am focused on improving my back-end skills, particularly with **Node.js** and **Express.js**.
 - Currently working on Astr4dev and Bravion projects.
