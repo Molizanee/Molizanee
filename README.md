@@ -8,4 +8,5 @@
 - LinkedIn: [David Molizane](https://www.linkedin.com/in/david-molizane-11a8751b3/)
 ## Technologies & Tools:
 - Front-end: React.js, Solid.js, Next.js, Storybook, Vitest, Playwright
-- Back-end: Node.js, Express.js, MongoDB, Firebase, PostgreSQL, Jest, Docker
+- Back-end: Node.js, Express.js, MongoDB, FireStore, PostgreSQL, Jest
+- Tools & Platforms: Docker, Firebase, Google Cloud
