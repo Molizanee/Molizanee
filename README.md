@@ -1,12 +1,7 @@
-# Hi, I’m David Molizane 🤟
-## Software Developer based in Brazil
-## About Me:
-- I am focused on improving my back-end skills, particularly with **Node.js** and **Express.js**.
-- Currently working on Astr4dev and Bravion projects.
+<h1>Hi, I’m David Molizane 🤟</h1>
+<p>Software Developer based in Brazil</p>
+<h2>About Me:</h2>
+- I am focused on improving my back-end skills, particularly with **Golang**
 ## You can reach me at:
-- Email: dmolizane@gmail.com
+- Email: molizane_dev@proton.me
 - LinkedIn: [David Molizane](https://www.linkedin.com/in/david-molizane-11a8751b3/)
-## Technologies & Tools:
-- Front-end: React.js, Solid.js, Next.js, Storybook, Vitest, Playwright
-- Back-end: Node.js, Express.js, MongoDB, FireStore, PostgreSQL, Jest
-- Tools & Platforms: Docker, Firebase, Google Cloud
