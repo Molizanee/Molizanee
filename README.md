@@ -1,5 +1,5 @@
 <h1>Hi, I’m David Molizane 🤟</h1>
-<p>I'm a Software Developer from Brazil, passionate about creating efficient and scalable solutions.</p>
+<p>I'm a Software Developer from Brazil</p>
 
 <h2>About Me</h2>
 <ul>
