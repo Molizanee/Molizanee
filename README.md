@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 <ul>
-  <li>Pursuing a degree in Computer Engineering</li>
-  <li>Enthusiastic about building cloud-based applications</li>
-  <li>Active in open-source, driven by curiosity for cutting-edge tech</li>
+  <li>Pursuing a degree in Computer Engineering🖳</li>
+  <li>Enthusiastic about building cloud-based applications☁️</li>
+  <li>Active in open-source, driven by curiosity for cutting-edge tech🐧</li>
 </ul>
