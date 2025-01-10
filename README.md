@@ -10,5 +10,5 @@
 
 <h2>Want to Get in Touch?</h2>
 <ul>
-  <li>molizane_dev@proton.me</li>
+  <li>dmolizane@gmail.com</li>
 </ul>
