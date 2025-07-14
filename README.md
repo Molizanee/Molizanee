@@ -1,5 +1,5 @@
 <h1>Hi, I’m David Molizane 🤟</h1>
-<p>I'm a Software Developer from Brazil</p>
+<p>I'm a Software Engineer from Brazil</p>
 
 <h2>About Me</h2>
 <ul>
@@ -10,5 +10,5 @@
 
 <h2>Want to Get in Touch?</h2>
 <ul>
-  <li>dmolizane@gmail.com</li>
+  <li>molizane_dev@proton.me</li>
 </ul>
