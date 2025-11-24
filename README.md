@@ -10,6 +10,5 @@
 
 <h2>Want to get in touch?</h2>
 <ul>
-  <li>Email: <a href="mailto:molizane_dev@proton.me">molizane_dev@proton.me</a></li>
-  <li>Telegram: <a href="https://t.me/david_molizane">@david_molizane</a></li>
+  <li>Email: <a href="mailto:molizane_dev@proton.me">molizane_dev@proton.me</a></li>  
 </ul>
